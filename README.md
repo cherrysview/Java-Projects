@@ -91,8 +91,8 @@ cd java-projects/<project-name>
 
 4. Ensure all required data files are present:
 - KNN Predictor: `nekretnine.txt`
-- Restaurant System: `ingredients.txt`, `sastojci.txt`
-- Vaccination System: `vaccines.txt`
+- Restaurant System: `jelovnik.txt`, `sastojci.txt`
+- Vaccination System: `vakcine.txt`
 
 5. Run the main application class for the desired project
 
