@@ -17,7 +17,7 @@ An intelligent system that predicts real estate prices using the K-Nearest Neigh
 - Real estate data management
 
 ### 2. Restaurant Management System
-[View Project Details](./restaurant-management-system/README.md)
+[View Project Details](./restaurant-management-system)
 
 A comprehensive system for managing restaurant operations, menu items, and ingredient inventory.
 
