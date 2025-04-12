@@ -5,7 +5,7 @@ A collection of Java applications demonstrating various programming concepts, da
 ## Projects Overview
 
 ### 1. KNN Real Estate Price Predictor
-[View Project Details](./knn-predictor/README.md)
+[View Project Details](./knn-predictor)
 
 An intelligent system that predicts real estate prices using the K-Nearest Neighbors algorithm.
 
