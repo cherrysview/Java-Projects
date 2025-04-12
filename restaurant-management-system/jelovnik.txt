@@ -1,0 +1,8 @@
+D Bajadera keks 150 orasi 80 cokolada 50 secer 40
+G Piletina piletina 300 krompir 180 mleko 40
+G Pica sunka 100 kackavalj 100 pecurke 150 paradajz 200 masline 20 brasno 200 mleko 40 kvasac 25
+P Salata paradajz 150 masline 400 pecurke 150 kackavalj 40
+D Sufle jaja 70 cokolada 50 brasno 120 secer 40
+P Pomfrit krompir 300
+D Rolat jaja 140 brasno 120 secer 60 cokolada 70
+G VegeCufte pecurke 350 brasno 70 jaja 70 krompir 200
