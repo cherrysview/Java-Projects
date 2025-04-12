@@ -29,7 +29,7 @@ A comprehensive system for managing restaurant operations, menu items, and ingre
 - File-based data persistence
 
 ### 3. Vaccination Management System
-[View Project Details](./vaccination-management-system/README.md)
+[View Project Details](./vaccination-management-system)
 
 A vaccination tracking system that manages different vaccine types and monitors vaccination status across cities.
 
