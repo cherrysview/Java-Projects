@@ -1,0 +1,13 @@
+NEUTRALAN jaja 280
+SLAN krompir 110
+NEUTRALAN mleko 130
+NEUTRALAN brasno 90
+SLAN pecurke 250
+SLADAK cokolada 1500
+SLAN sunka 850
+SLAN kackavalj 1200
+SLADAK secer 90
+NEUTRALAN kvasac 1000
+SLAN piletina 820
+SLAN paradajz 250
+SLADAK orasi 2000
